@@ -7,4 +7,4 @@
 28/11/2019  17:28    <DIR>          ..
 28/11/2019  17:28                 0 dir.txt
                1 fichier(s)                0 octets
-               2 Rup(s)   6ÿ038ÿ540ÿ288 octets libres
+               2 Rap(s)   6ÿ038ÿ540ÿ288 octets libres
